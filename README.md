@@ -204,9 +204,9 @@ The project makes use of various Microsoft Excel features, including:
 
 The main project file included in this repository is:
 
-- **Healthcare Excel Workbook** – Contains the original data, cleaned data, transformed data, consolidated Healthcare sheet, analysis, and visualizations.
+- **Healthcare Data Cleaning Analysis** – Contains the original data, cleaned data, transformed data, consolidated Healthcare sheet, analysis, and visualizations.
 
-If a separate report is included, it explains the **functions, formulas, data-cleaning methods, transformations, and steps performed in Excel**.
+- **Healthcare Excel Project Report** – Contains the steps used for cleaning and transforming the original data.
 
 ---
 
